@@ -1,0 +1,27 @@
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\bin\Debug\BattleduckGalactica.exe.config
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\bin\Debug\BattleduckGalactica.exe
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\bin\Debug\BattleduckGalactica.pdb
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.csprojResolveAssemblyReference.cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\MainWindow.baml
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\MainWindow.g.cs
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\App.g.cs
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica_MarkupCompile.cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.g.resources
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.Properties.Resources.resources
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.csproj.GenerateResource.Cache
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.exe
+\\napier-mail.napier.ac.uk\students\school of computing\user data\40228769\visual studio 2013\Projects\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.pdb
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\bin\Debug\BattleduckGalactica.exe.config
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\bin\Debug\BattleduckGalactica.exe
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\bin\Debug\BattleduckGalactica.pdb
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.csprojResolveAssemblyReference.cache
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\MainWindow.baml
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\MainWindow.g.cs
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\App.g.cs
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica_MarkupCompile.cache
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.g.resources
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.Properties.Resources.resources
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.csproj.GenerateResource.Cache
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.csproj.CoreCompileInputs.cache
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.exe
+E:\Rzeczy\Stuff for github\BattleduckGalactica\BattleduckGalactica\obj\Debug\BattleduckGalactica.pdb
